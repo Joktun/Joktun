@@ -13,5 +13,5 @@ Python, Pandas, MatPlotLib, NumPy, SciPy, Keras, Scikit-learn, lightgbm, statsmo
 
 | Project name | Something about |
 | --- | --- |
-| [Steel Bird](https://github.com/Joktun/Yandex.Practicum---Data-Science/tree/Diploma-Project---Steel-Bird) | My favourite project |
+| [Steel Bird](https://github.com/Joktun/Yandex.Practicum---Data-Science/tree/Diploma-Project---Steel-Bird) | Predicting steel temperature |
 
