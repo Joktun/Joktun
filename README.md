@@ -2,7 +2,6 @@
 
 ## I am an Analyst and a Data Scientist!
 - ⚡ Fun fact: I collect FUNko Pop
-- 
 
 ###### Databases: 
 PostgreSQL, MySQL
