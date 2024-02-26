@@ -10,7 +10,8 @@ PostgreSQL, MySQL
 Python, Pandas, MatPlotLib, NumPy, SciPy, Keras, Scikit-learn, lightgbm, statsmodel, SHAP
 <br><br>
 <h3>My Repositories</h3>
-| Название проекта | Описание |
+
+| Project name | Something about |
 | --- | --- |
-| [Steel Bird](https://github.com/Joktun/Yandex.Practicum---Data-Science/tree/Diploma-Project---Steel-Bird) | Мой самый любимый проект |
+| [Steel Bird](https://github.com/Joktun/Yandex.Practicum---Data-Science/tree/Diploma-Project---Steel-Bird) | My favourite project |
 
