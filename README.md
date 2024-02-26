@@ -11,6 +11,5 @@ Python, Pandas, MatPlotLib, NumPy, SciPy, Keras, Scikit-learn, lightgbm, statsmo
 <br><br>
 <h3>My Repositories</h3>
 | Название проекта |
-| --- |
 | [Steel Bird](https://github.com/Joktun/Yandex.Practicum---Data-Science/tree/Diploma-Project---Steel-Bird) |
 
