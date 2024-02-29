@@ -13,5 +13,5 @@ Python, Pandas, MatPlotLib, NumPy, SciPy, Keras, Scikit-learn, lightgbm, statsmo
 
 | Project name | Something about |
 | --- | --- |
-| [Steel Bird](https://github.com/Joktun/Yandex.Practicum---Data-Science) | My Yandex course Projects |
+| [Yandex.DataScience](https://github.com/Joktun/Yandex.Practicum---Data-Science) | My Yandex course Projects |
 
