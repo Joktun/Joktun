@@ -14,4 +14,5 @@ Python, Pandas, MatPlotLib, NumPy, SciPy, Keras, Scikit-learn, lightgbm, statsmo
 | Project name | Something about |
 | --- | --- |
 | [Yandex.DataScience](https://github.com/Joktun/Yandex.Practicum---Data-Science) | My Yandex course Projects |
-
+| [Yandex.DataScience](https://github.com/Joktun/Yandex.Practicum---Data-Science) | My Yandex course Projects |
+|[Pregnancy-Risk-Levels](https://github.com/Joktun/Pregnancy-Risk-Levels)|Тестовое задание|
