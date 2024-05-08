@@ -15,4 +15,4 @@ Python, Pandas, MatPlotLib, NumPy, SciPy, Keras, Scikit-learn, lightgbm, statsmo
 | --- | --- |
 | [Yandex.DataScience](https://github.com/Joktun/Yandex.Practicum---Data-Science) | My Yandex course Projects |
 |[Pregnancy-Risk-Levels](https://github.com/Joktun/Pregnancy-Risk-Levels)| Прогнозирование уровня риска для беременных женщин на основе ключевых атрибутов здоровья|
-|[Music-Genre-Prediction](https://github.com/Joktun/Pregnancy-Risk-Levels)| Прогнозирование жанра музыки по обложке альбома|
+|[Music-Genre-Prediction]([https://github.com/Joktun/Pregnancy-Risk-Levels](https://github.com/Joktun/Music-Genre-Prediction))| Прогнозирование жанра музыки по обложке альбома|
