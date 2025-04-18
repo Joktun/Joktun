@@ -1,4 +1,4 @@
-## Hi there, I'm Artem Avdoshkin - aka Joktun 
+## Hi there, I'm Artem Avdoshkin
 
 ### I am an Analyst and a Data Scientist!
 - ⚡ Fun fact: I collect FUNko Pop
